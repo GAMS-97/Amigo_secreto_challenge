@@ -32,7 +32,7 @@ JavaScript - Lógica del proyecto, como lo son el sorteo, agregar nombres, etc.
 
 ## 📁 Acceso al proyecto
 
-
+https://github.com/GAMS-97/Amigo_secreto_challenge.git
 
 ## 🛠️ Abrir y ejecutar el proyecto
 
